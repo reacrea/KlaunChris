@@ -1,0 +1,43 @@
+{
+  "name": "Klauychris",
+  "version": "0.0.1",
+  "description": "la mejor boda del año",
+  "main": "bootstrap.js",
+  "scripts": {
+    "tsc": "tsc -p src -w",
+    "start": "lite-server --port=8001 --open build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirajc/angular2-bs4-navbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sirajc/angular2-bs4-navbar/issues"
+  },
+  "homepage": "https://sirajc.github.io/angular2-bs4-navbar",
+  "keywords": [
+    "angular",
+    "angular2",
+    "router",
+    "gulp",
+    "bootstrap"
+  ],
+  "author": "Juan Carlos Rea <juancarlos.rea@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.46",
+    "systemjs": "0.19.5"
+  },
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-run": "^1.6.11",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-util": "^3.0.7",
+    "lite-server": "^1.3.1",
+    "typescript": "^1.6.2"
+  }
+}
