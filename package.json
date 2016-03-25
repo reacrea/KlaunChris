@@ -5,7 +5,7 @@
   "main": "bootstrap.js",
   "scripts": {
     "tsc": "tsc -p src -w",
-    "start": "lite-server --port=8001 --open build"
+    "start": "lite-server --port=80 --open build"
   },
   "repository": {
     "type": "git",
