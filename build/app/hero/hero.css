@@ -32,6 +32,9 @@ header .display-2 {
     line-height:1.4;
     font-weight:300;
 }
+h2{
+  
+}
 
 @media (min-width: 48em) { /* -md- and above */
   #size-banner{
