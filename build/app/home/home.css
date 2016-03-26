@@ -64,7 +64,7 @@ header .display-2 {
     background-size:cover;
     background-attachment:fixed!important;
     overflow:hidden;
-    background-image: url("../src/app/home/KlaunChris.jpg");
+    background-image: url("../src/app/home/KlauNChris.jpg");
 }
 
 .parallax-pattern-overlay {
