@@ -15,8 +15,8 @@ var AboutUsComponent = (function () {
     AboutUsComponent = __decorate([
         angular2_1.Component({
             selector: 'about-us',
-            template: '<div class="paralax" style="background-image: url(../src/app/home/about/KCabout.jpg);">This is About Us Component</div>',
-            styleUrls: ['app/home/home.css']
+            templateUrl: 'app/home/about/about.html',
+            styleUrls: ['app/home//about/about.css']
         }), 
         __metadata('design:paramtypes', [])
     ], AboutUsComponent);

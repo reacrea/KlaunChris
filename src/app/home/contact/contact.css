@@ -64,6 +64,7 @@ header .display-2 {
     background-size:cover;
     background-attachment:fixed!important;
     overflow:hidden;
+    background-image: url("../src/app/home/contact/KCcontact.jpg");
 }
 
 .parallax-pattern-overlay {

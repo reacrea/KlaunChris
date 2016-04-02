@@ -64,7 +64,7 @@ header .display-2 {
     background-size:cover;
     background-attachment:fixed!important;
     overflow:hidden;
-    background-image: url("../src/app/home/contact/KCcontact.jpg");
+    background-image: url("../src/app/home/about/KCabout.jpg");
 }
 
 .parallax-pattern-overlay {
@@ -76,7 +76,7 @@ header .display-2 {
     background:#446788;
     margin-top:-30px;
     position:relative;
-    padding: 0;
+    padding: 100;
 }
 
 .footer .container {
@@ -90,5 +90,5 @@ header .display-2 {
     font-weight:300;
     text-align:center;
     text-transform:uppercase;
-    margin-top: 50px;
+    margin-top: 20px;
 }

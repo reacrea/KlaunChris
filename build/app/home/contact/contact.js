@@ -15,7 +15,8 @@ var ContactComponent = (function () {
     ContactComponent = __decorate([
         angular2_1.Component({
             selector: 'contact',
-            template: '<div class="container text-center" style="background-image: url(../src/app/home/contact/KCcontact.jpg);">This is Contact Component</div>'
+            templateUrl: 'app/home/contact/contact.html',
+            styleUrls: ['app/home/contact/contact.css']
         }), 
         __metadata('design:paramtypes', [])
     ], ContactComponent);

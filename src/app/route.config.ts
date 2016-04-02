@@ -7,7 +7,7 @@ import {ContactComponent} from './home/contact/contact';
 export var Routes = {
   home: new Route({ path: '/', component: HomeComponent, name: 'Home', data: { title: 'Klau y Chris' } }),
   heroes: new Route({ path: '/heroes/...', component: HeroComponent, name: 'Heroes', data: { title: 'Heroes', defaultChildRoute: 'List' } }),
-  aboutUs: new Route({ path: '/about', component: AboutUsComponent, name: 'AboutUs', data: { title: 'what About Us' } }),
+  aboutUs: new Route({ path: '/about', component: AboutUsComponent, name: 'AboutUs', data: { title: 'what About the place' } }),
   contact: new Route({ path: '/contact', component: ContactComponent, name: 'Contact', data: { title: 'Contact' } })
 }
 
